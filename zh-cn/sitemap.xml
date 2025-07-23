@@ -50,11 +50,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://cafeidong.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://cafeidong.github.io/zh-cn/post/"
                 />

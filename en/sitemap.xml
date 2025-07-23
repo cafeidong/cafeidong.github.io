@@ -75,11 +75,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://cafeidong.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://cafeidong.github.io/post/"
                 />
@@ -111,19 +106,6 @@
     <loc>https://cafeidong.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cafeidong.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://cafeidong.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cafeidong.github.io/p/placeholder-text/"
-                />
-  </url><url>
     <loc>https://cafeidong.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,6 +126,9 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cafeidong.github.io/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cafeidong.github.io/p/%E6%8A%8Atitle%E6%94%B9%E6%88%90%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cafeidong.github.io/p/math-typesetting/</loc>
